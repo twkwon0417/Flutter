@@ -1,9 +1,9 @@
 # Flutter
 Location_Alarm
 
-특정 기기에서 안정성 문제가 있음
-
-Map page 에서 Demo page로 가도 reset되지 않도록 Thread를 열든가 해야겠다
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=gH9vf9X-Hzw
+" target="_blank"><img src="http://img.youtube.com/vi/gH9vf9X-Hzw/0.jpg" 
+alt="시연영상" width="240" height="180" border="10" /></a>
 
 Push Notification이 아니라 진짜 alarm으로 바꾸기
 
